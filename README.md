@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VVKand
+- 👋 Hi, I’m Viacheslav
 - 👀 I’m interested in IT professions.
 - 🌱 I’m currently learning GeekBrains.
 - 💞️ I’m looking to collaborate on area.
